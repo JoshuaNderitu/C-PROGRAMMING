@@ -1,9 +1,9 @@
-C Programming – Advanced Concepts & Cybersecurity Path 🔥
+**C Programming – Advanced Concepts & Cybersecurity Path 🔥**
 
 Master the real power of C: pointers, memory, data structures, OS internals, networking, and hacking fundamentals.
 This repository is your personal C Mastery Roadmap, containing folders for each topic, with dedicated READMEs and code examples.
 
-⭐ What This Repo Is About
+**⭐ What This Repo Is About**
 
 This repo documents your journey from intermediate C programming to low-level mastery, focusing especially on:
 
@@ -28,8 +28,8 @@ Every concept gets its own folder with:
 ✔ Mini projects
 ✔ Notes on common pitfalls
 
-🚀 Roadmap Overview
-🔥 1. Master Pointers & Memory Deeply
+**🚀 Roadmap Overview**
+**🔥 1. Master Pointers & Memory Deeply**
 Learn:
 
 Pointer arithmetic
@@ -48,11 +48,11 @@ Dangling pointers, leaks, double frees
 
 Implementing your own dynamic arrays
 
-📌 Project
+**📌 Project**
 
 🔧 Build your own realloc-like function + fully custom dynamic array library.
 
-🧵 2. Strings & Buffer Manipulation
+**🧵 2. Strings & Buffer Manipulation**
 Study:
 
 strcpy, strncpy, strcat, strcmp
@@ -65,11 +65,11 @@ Null termination mechanics
 
 Optional: Manual UTF-8 parsing
 
-📌 Project
+**📌 Project**
 
 🔧 Implement your own strtok or a lightweight custom string parser.
 
-🌲 3. Build Data Structures in Pure C
+**🌲 3. Build Data Structures in Pure C**
 Implement:
 
 Linked list
@@ -88,11 +88,11 @@ Min/max heap
 
 Graph (adjacency list)
 
-📌 Project
+****📌 Project****
 
 🧠 Build an in-memory database using your own data structures.
 
-📁 4. File I/O & OS Interaction
+**📁 4. File I/O & OS Interaction**
 Learn:
 
 fopen, fread, fwrite, fclose
@@ -107,11 +107,11 @@ Reading CLI arguments
 
 Reading system information
 
-📌 Project
+**📌 Project**
 
 📊 Create a log analyzer or key-value storage engine.
 
-⚙️ 5. The Build System — Become a Pro
+**⚙️ 5. The Build System — Become a Pro**
 Learn:
 
 How linking truly works
@@ -125,12 +125,12 @@ Static libraries (.a)
 Shared libraries (.so)
 
 Makefiles (multi-file builds)
-
-📌 Project
+**
+📌 Project**
 
 🏗️ Create your own reusable C library and build a multi-file project around it.
 
-🐞 6. Debugging Tools (Critical for Cybersecurity)
+**🐞 6. Debugging Tools (Critical for Cybersecurity)**
 Master:
 
 gdb
@@ -147,11 +147,11 @@ Reading segmentation faults
 
 Core dump analysis
 
-📌 Project
+**📌 Project**
 
 💥 Write a program that intentionally crashes via buffer overflow, then debug it.
 
-🐧 7. Linux System Internals
+**🐧 7. Linux System Internals**
 Study:
 
 Processes
@@ -172,11 +172,11 @@ Scheduling
 
 strace and syscalls
 
-📌 Project
+**📌 Project**
 
 🖥️ Build a small shell (myshell) that runs commands.
 
-🌐 8. Networking in C
+**🌐 8. Networking in C**
 Learn:
 
 TCP/UDP sockets
@@ -193,7 +193,7 @@ Simple HTTP parsing
 
 🌍 Create a tiny C web server that can serve basic pages.
 
-🔓 9. Cybersecurity & Exploit Development
+**🔓 9. Cybersecurity & Exploit Development**
 Study:
 
 Buffer overflow exploitation
@@ -212,7 +212,7 @@ Race conditions
 
 Privilege escalation basics
 
-📌 Project
+**📌 Project**
 
 🧨 Build intentionally vulnerable programs and write exploits for them.
 
